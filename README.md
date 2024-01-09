@@ -23,7 +23,7 @@ C'est un projet où le Javascript est très présent bien qu'il y ait des intera
 * Je visualise l'application sur tous les formats d'écran sans scrollbar horizontale
 * L'application utilise tout l'écran de façon optimale sur tous les appareils
 * Le design est sobre, moderne, simple et intuitif
-
+ 
 ## 
    **Lecteur**
 
